@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structgrapher_1_1plotter__base__t.html" title=" " alt="" coords="5,153,178,180"/>
+<area shape="rect" id="Node000001" href="$structgrapher_1_1plotters_1_1plotter__compare__by__t.html" title=" " alt="" coords="249,5,412,50"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="117,140,165,99,224,60,250,48,252,53,227,65,168,104,120,144"/>
+<area shape="rect" id="Node000002" href="$structgrapher_1_1plotters_1_1plotter__compare__t.html" title=" " alt="" coords="260,75,401,119"/>
+<area shape="poly" id="edge2_Node000000_Node000002" title=" " alt="" coords="156,145,259,115,260,120,157,150"/>
+<area shape="rect" id="Node000003" href="$structgrapher_1_1plotters_1_1plotter__debug__t.html" title=" " alt="" coords="262,144,399,189"/>
+<area shape="poly" id="edge3_Node000000_Node000003" title=" " alt="" coords="193,164,261,164,261,169,193,169"/>
+<area shape="rect" id="Node000004" href="$structgrapher_1_1plotters_1_1plotter__grouped__histogram__t.html" title=" " alt="" coords="226,213,435,258"/>
+<area shape="poly" id="edge4_Node000000_Node000004" title=" " alt="" coords="157,182,252,210,250,215,156,188"/>
+<area shape="rect" id="Node000005" href="$structgrapher_1_1plotters_1_1plotter__stack__t.html" title=" " alt="" coords="262,283,399,327"/>
+<area shape="poly" id="edge5_Node000000_Node000005" title=" " alt="" coords="120,189,168,229,227,268,263,284,260,288,224,273,165,233,117,193"/>
+</map>

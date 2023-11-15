@@ -1,0 +1,11 @@
+<map id="grapher/include/grapher/core.hpp" name="grapher/include/grapher/core.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="124,5,300,50"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,107,96,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,53,88,101,86,96,172,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="120,107,178,134"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,52,169,95,165,92,195,49"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="202,107,347,134"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="229,49,259,92,255,95,224,52"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="371,98,519,143"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="269,48,376,89,374,94,267,53"/>
+</map>

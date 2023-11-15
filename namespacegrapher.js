@@ -1,0 +1,67 @@
+var namespacegrapher =
+[
+    [ "math", "namespacegrapher_1_1math.html", [
+      [ "average", "namespacegrapher_1_1math.html#a9f8bbe814a5b988320cfebff6615b20c", null ],
+      [ "median", "namespacegrapher_1_1math.html#a2000038a4428901e78bf9606189992d3", null ],
+      [ "stddev", "namespacegrapher_1_1math.html#ab84cd210332d1642941134a6ce73283b", null ]
+    ] ],
+    [ "plotters", "namespacegrapher_1_1plotters.html", "namespacegrapher_1_1plotters" ],
+    [ "predicates", "namespacegrapher_1_1predicates.html", [
+      [ "match", "group__predicates.html#gacd34df68339551e0e53a4fe1a4eb191b", null ],
+      [ "op_and", "group__predicates.html#ga8486ba50d1a71a750d05a4449999dfd2", null ],
+      [ "op_or", "group__predicates.html#ga2df7c4c93e7ee7d061ea1088af76cb6b", null ],
+      [ "regex", "group__predicates.html#ga40243f08a40b9b7102639b603f704afd", null ],
+      [ "streq", "group__predicates.html#gab44a2d80679338e9de5225e526a4b8db", null ],
+      [ "val_false", "group__predicates.html#gac6f5ed9635c632c3b2bf2d9624be9baa", null ],
+      [ "val_true", "group__predicates.html#ga8285db45b561e14f8831bd21e5487026", null ]
+    ] ],
+    [ "benchmark_case_t", "structgrapher_1_1benchmark__case__t.html", "structgrapher_1_1benchmark__case__t" ],
+    [ "benchmark_instance_t", "structgrapher_1_1benchmark__instance__t.html", "structgrapher_1_1benchmark__instance__t" ],
+    [ "group_descriptor_t", "structgrapher_1_1group__descriptor__t.html", "structgrapher_1_1group__descriptor__t" ],
+    [ "plotter_base_t", "structgrapher_1_1plotter__base__t.html", "structgrapher_1_1plotter__base__t" ],
+    [ "benchmark_set_t", "namespacegrapher.html#a2730df41938568f0d75f4800ccc24d73", null ],
+    [ "json_t", "namespacegrapher.html#adc701c775154d38d276a113bced5ed98", null ],
+    [ "map_t", "namespacegrapher.html#a15271cb988dd81a1bbc8952fcebccf18", null ],
+    [ "multimap_t", "namespacegrapher.html#a714bfa64063ce7fad5e7ff30361e4c58", null ],
+    [ "plotter_t", "namespacegrapher.html#ae28f76bbf0f6ff67ca293b842bc6065b", null ],
+    [ "predicate_t", "group__predicates.html#gaa62b1dc09c2e0071fb2a989648081c98", null ],
+    [ "value_t", "namespacegrapher.html#a2af71b215fd05aa4d91662228543267c", null ],
+    [ "error_level_t", "namespacegrapher.html#a2fc54e47aec33a299879b8569e92c8da", [
+      [ "error_v", "namespacegrapher.html#a2fc54e47aec33a299879b8569e92c8daa45826109e11b609847e84e2491de146c", null ],
+      [ "warning_v", "namespacegrapher.html#a2fc54e47aec33a299879b8569e92c8daa63a43ffc84754c135f92f4d151d0d534", null ],
+      [ "info_v", "namespacegrapher.html#a2fc54e47aec33a299879b8569e92c8daaab763bfdb5948790318243d737747205", null ],
+      [ "log_v", "namespacegrapher.html#a2fc54e47aec33a299879b8569e92c8daa7b2d9c60454c37dc8d263838d7defb1a", null ]
+    ] ],
+    [ "plotter_type_t", "namespacegrapher.html#aa192088d1895a94ae9eafc5cf26172a0", [
+      [ "compare_v", "namespacegrapher.html#aa192088d1895a94ae9eafc5cf26172a0aa167fef5ad47df71c356ee21bdb03204", null ],
+      [ "compare_by_v", "namespacegrapher.html#aa192088d1895a94ae9eafc5cf26172a0a53d0ae41552a57745d578f34ba6062ae", null ],
+      [ "debug_v", "namespacegrapher.html#aa192088d1895a94ae9eafc5cf26172a0aecff38c3253cf34d8e380b2c81522f7f", null ],
+      [ "stack_v", "namespacegrapher.html#aa192088d1895a94ae9eafc5cf26172a0af3ae2d143f50d7e4992a8056b9b4f35a", null ]
+    ] ],
+    [ "apply_config", "namespacegrapher.html#a6ceab574e9c560d0c2f5671ed2548968", null ],
+    [ "base_default_config", "namespacegrapher.html#af1b6c59065e776838dd6c37cafef9f9a", null ],
+    [ "build_category", "namespacegrapher.html#af40068397faf337d37e6c0f64eacf01d", null ],
+    [ "check", "namespacegrapher.html#a4dc38155d6bf6e2c7c447a07a03f4e79", null ],
+    [ "extract_group", "namespacegrapher.html#a9c1801a4243921b3e8b1204c2f65a752", null ],
+    [ "field_loc_to_string", "namespacegrapher.html#a2b887654f5e7229386cedbff3b1b5d32", null ],
+    [ "field_loc_to_string", "namespacegrapher.html#a3e688d1b5965e59be24d680e773ef6b7", null ],
+    [ "filtered_values_sums", "namespacegrapher.html#ad795b8b46084565d8999ab583294380c", null ],
+    [ "get_as_json", "namespacegrapher.html#a3f9f44aa3c3a5d017f113d7cc3e08490", null ],
+    [ "get_as_ref", "namespacegrapher.html#a46f542515509ad6ee7908b8f874adead", null ],
+    [ "get_default_group_descriptor", "namespacegrapher.html#ac8170998be65554ee60dd7ae2c3d70de", null ],
+    [ "get_predicate", "group__predicates.html#ga9257423186e2257df96cf2579b266936", null ],
+    [ "get_predicates", "namespacegrapher.html#a014f0cc8160032cfb719ab1d7978d0a1", null ],
+    [ "group_descriptor_json", "namespacegrapher.html#a7af0d38e161e26154a85289b2e96cfd5", null ],
+    [ "plotter_type_to_plotter", "namespacegrapher.html#ab8d48f954ba291f7dfdf0e4abf312608", null ],
+    [ "read_descriptor", "namespacegrapher.html#ab4a4c6e2e95d2effff4c40ab1a92f64a", null ],
+    [ "read_descriptors", "namespacegrapher.html#a711d437df00649ee175f0d49d0b8a433", null ],
+    [ "save_plot", "namespacegrapher.html#a16bc1da261adc5b38aab6fbedcaa558a", null ],
+    [ "string_to_plotter", "namespacegrapher.html#a289e54f0af598216ddb8c461e3012f5e", null ],
+    [ "string_to_plotter_type", "namespacegrapher.html#a4e5f17e73ffdec6cacceba9598c59d85", null ],
+    [ "to_string", "namespacegrapher.html#a227810a4dae412369d83190c7efc3c8e", null ],
+    [ "warn", "namespacegrapher.html#acc1d1a651f2c01a99f76e001300a98c8", null ],
+    [ "write_descriptors", "namespacegrapher.html#a47c476c3dc3777b683dbf28214b9495c", null ],
+    [ "default_config", "namespacegrapher.html#a5bae3e44c7e58165c229c88da5ab618a", null ],
+    [ "plotter_cl_values", "namespacegrapher.html#a7a04d1516ea5cd95c907245029f9b992", null ],
+    [ "plotter_name_map", "namespacegrapher.html#a60bb016a0149a427ece9a0d8e1b03973", null ]
+];

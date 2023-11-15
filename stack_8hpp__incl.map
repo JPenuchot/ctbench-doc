@@ -1,0 +1,20 @@
+<map id="grapher/include/grapher/plotters/stack.hpp" name="grapher/include/grapher/plotters/stack.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="42,5,219,50"/>
+<area shape="rect" id="Node000002" href="$plotter__base_8hpp.html" title=" " alt="" coords="44,98,217,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,50,133,83,128,83,128,50"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,275,96,303"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="79,145,50,165,28,192,23,209,24,226,36,261,31,263,18,228,17,208,23,189,46,161,76,141"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="38,191,114,218"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="118,145,95,179,91,176,114,142"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="138,191,235,218"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="147,142,171,176,167,179,143,145"/>
+<area shape="rect" id="Node000006" href="$core_8hpp.html" title=" " alt="" coords="258,191,390,218"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="183,141,280,182,278,187,181,146"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="281,221,110,273,108,267,279,216"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="169,275,228,303"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="305,221,233,268,230,264,302,217"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="251,275,397,303"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="327,219,327,259,321,259,321,219"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="420,266,569,311"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="352,217,437,257,434,262,350,221"/>
+</map>

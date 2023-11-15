@@ -1,0 +1,15 @@
+<map id="grapher/include/grapher/plotters/debug.hpp" name="grapher/include/grapher/plotters/debug.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="423,5,599,50"/>
+<area shape="rect" id="Node000002" href="$plotters_8hpp.html" title=" " alt="" coords="331,98,507,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="480,63,442,100,438,96,476,59"/>
+<area shape="rect" id="Node000007" href="$debug_8cpp.html" title=" " alt="" coords="531,98,677,143"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="545,59,584,96,580,100,542,63"/>
+<area shape="rect" id="Node000003" href="$grapher-plot_8cpp.html" title=" " alt="" coords="5,199,187,227"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="328,150,144,201,142,196,326,145"/>
+<area shape="rect" id="Node000004" href="$grapher-utils_8cpp.html" title=" " alt="" coords="211,199,395,227"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="381,154,321,201,318,196,377,150"/>
+<area shape="rect" id="Node000005" href="$grouped__histogram_8cpp.html" title=" " alt="" coords="419,191,651,235"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="460,150,509,188,505,192,456,154"/>
+<area shape="rect" id="Node000006" href="$plotters_8cpp.html" title=" " alt="" coords="675,191,832,235"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="514,145,676,188,674,193,513,150"/>
+</map>
